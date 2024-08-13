@@ -1,0 +1,19 @@
+.dark {
+  color: #f9f9f9;
+}
+
+.light {
+  color: #181818;
+}
+
+.icon-in-video-item {
+  font-size: 21px;
+  margin-top: 25px;
+  margin-right: 9px;
+  margin-left: 20px;
+  cursor: pointer;
+}
+
+.selected {
+  color: #2563eb;
+}
